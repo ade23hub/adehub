@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.venz/
+build/
+dist/
+build.log
+*.spec
+asset/GOPILOT.ico
+
+# Local data created by the app
+app/gopilot.db
+app/test/
+test/
+organized_files/
+activity-log.csv
